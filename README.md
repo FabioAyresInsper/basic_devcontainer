@@ -1,2 +1,3 @@
-# basic_devcontainer
-A basic repo with a .devcontainer
+# Basic `.devcontainer`
+
+A basic repo with a `.devcontainer`.
